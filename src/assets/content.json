@@ -1,0 +1,16 @@
+{
+    "nyc": "NYC",
+    "navbar": "HS Search",
+    "title": "High School Search",
+    "emoji": "🗽",
+    "logoAltText": "Statue of Liberty Icon",
+    "pageError": "No data found for DBN",
+    "searchError": "No schools found with",
+    "row1": "DBN",
+    "row2": "Borough",
+    "row3": "School Name",
+    "row4": "Number of SAT Test Takers",
+    "row5": "Average SAT Score - Critical Reading",
+    "row6": "Average SAT Score - Math",
+    "row7": "School Description"
+}

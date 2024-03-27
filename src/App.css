@@ -1,0 +1,7 @@
+.comboboxMaxHeight {
+  max-height: 20.55rem;
+}
+
+.safariWidth {
+  min-width: 22.55rem; /* custom styling for Safari browser - min-w-max class behaves differently than in Chrome */
+}
