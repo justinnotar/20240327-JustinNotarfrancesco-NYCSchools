@@ -13,6 +13,7 @@
     "@types/react": "^18.2.69",
     "@types/react-dom": "^18.2.22",
     "eslint": "^8.57.0",
+    "firebase": "^10.11.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-query": "^3.39.3",
